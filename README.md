@@ -1,0 +1,1 @@
+# CRUD_TYPE_SCRIPT
